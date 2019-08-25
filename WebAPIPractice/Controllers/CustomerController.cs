@@ -15,7 +15,8 @@ namespace WebAPIPractice.Controllers
         ICustomer customerService = new CustomerService();
 
         [HttpGet]
-        [Route("Customer/GetCustomer")]
+        [Route("API/Customer/GetCustomer")]
+        [Route("API/Customer/GetCustomer")]
         public IHttpActionResult Get(int custId = 0)
         {
             var customers = customerService.GetCustomerData();
