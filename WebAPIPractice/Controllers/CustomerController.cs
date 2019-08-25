@@ -17,7 +17,7 @@ namespace WebAPIPractice.Controllers
         [HttpGet]
         [Route("API/Customer/GetCustomer")]
         [Route("API/Customer/GetCustomer")]
-        [Route("API/Customer/GetCustomerDetails")]
+        [Route("API/Customer/GetCustomerDetail")]
         public IHttpActionResult Get(int custId = 0)
         {
             var customers = customerService.GetCustomerData();
