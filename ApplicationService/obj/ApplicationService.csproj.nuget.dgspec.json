@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\subhasis\\source\\repos\\ApplicationService\\ApplicationService.csproj": {}
+    "C:\\Users\\subhasis\\source\\repos\\GitPullAPI\\ApplicationService\\ApplicationService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\subhasis\\source\\repos\\ApplicationService\\ApplicationService.csproj": {
+    "C:\\Users\\subhasis\\source\\repos\\GitPullAPI\\ApplicationService\\ApplicationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\subhasis\\source\\repos\\ApplicationService\\ApplicationService.csproj",
+        "projectUniqueName": "C:\\Users\\subhasis\\source\\repos\\GitPullAPI\\ApplicationService\\ApplicationService.csproj",
         "projectName": "ApplicationService",
-        "projectPath": "C:\\Users\\subhasis\\source\\repos\\ApplicationService\\ApplicationService.csproj",
+        "projectPath": "C:\\Users\\subhasis\\source\\repos\\GitPullAPI\\ApplicationService\\ApplicationService.csproj",
         "packagesPath": "C:\\Users\\subhasis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\subhasis\\source\\repos\\ApplicationService\\obj\\",
+        "outputPath": "C:\\Users\\subhasis\\source\\repos\\GitPullAPI\\ApplicationService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\subhasis\\source\\repos\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\subhasis\\source\\repos\\Repository\\Repository.csproj"
+              "C:\\Users\\subhasis\\source\\repos\\GitPullAPI\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\subhasis\\source\\repos\\GitPullAPI\\Repository\\Repository.csproj"
               }
             }
           }
@@ -60,12 +60,12 @@
         }
       }
     },
-    "C:\\Users\\subhasis\\source\\repos\\Repository\\Repository.csproj": {
+    "C:\\Users\\subhasis\\source\\repos\\GitPullAPI\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\subhasis\\source\\repos\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\subhasis\\source\\repos\\GitPullAPI\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\subhasis\\source\\repos\\Repository\\Repository.csproj"
+        "projectPath": "C:\\Users\\subhasis\\source\\repos\\GitPullAPI\\Repository\\Repository.csproj"
       },
       "frameworks": {
         "net461": {}
