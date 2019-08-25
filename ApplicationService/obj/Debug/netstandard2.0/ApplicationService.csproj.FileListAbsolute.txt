@@ -1,0 +1,15 @@
+C:\Users\subhasis\source\repos\ApplicationService\bin\Debug\netstandard2.0\ApplicationService.deps.json
+C:\Users\subhasis\source\repos\ApplicationService\bin\Debug\netstandard2.0\ApplicationService.dll
+C:\Users\subhasis\source\repos\ApplicationService\bin\Debug\netstandard2.0\ApplicationService.pdb
+C:\Users\subhasis\source\repos\ApplicationService\bin\Debug\netstandard2.0\Repository.dll
+C:\Users\subhasis\source\repos\ApplicationService\bin\Debug\netstandard2.0\EntityFramework.dll
+C:\Users\subhasis\source\repos\ApplicationService\bin\Debug\netstandard2.0\Repository.pdb
+C:\Users\subhasis\source\repos\ApplicationService\bin\Debug\netstandard2.0\Repository.dll.config
+C:\Users\subhasis\source\repos\ApplicationService\bin\Debug\netstandard2.0\EntityFramework.xml
+C:\Users\subhasis\source\repos\ApplicationService\obj\Debug\netstandard2.0\ApplicationService.csprojAssemblyReference.cache
+C:\Users\subhasis\source\repos\ApplicationService\obj\Debug\netstandard2.0\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\subhasis\source\repos\ApplicationService\obj\Debug\netstandard2.0\ApplicationService.AssemblyInfoInputs.cache
+C:\Users\subhasis\source\repos\ApplicationService\obj\Debug\netstandard2.0\ApplicationService.AssemblyInfo.cs
+C:\Users\subhasis\source\repos\ApplicationService\obj\Debug\netstandard2.0\ApplicationService.csproj.CopyComplete
+C:\Users\subhasis\source\repos\ApplicationService\obj\Debug\netstandard2.0\ApplicationService.dll
+C:\Users\subhasis\source\repos\ApplicationService\obj\Debug\netstandard2.0\ApplicationService.pdb

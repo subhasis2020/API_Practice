@@ -1,0 +1,11 @@
+C:\Users\subhasis\source\repos\Repository\bin\Debug\Repository.dll.config
+C:\Users\subhasis\source\repos\Repository\bin\Debug\Repository.dll
+C:\Users\subhasis\source\repos\Repository\bin\Debug\Repository.pdb
+C:\Users\subhasis\source\repos\Repository\bin\Debug\EntityFramework.dll
+C:\Users\subhasis\source\repos\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\subhasis\source\repos\Repository\bin\Debug\EntityFramework.xml
+C:\Users\subhasis\source\repos\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\subhasis\source\repos\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\subhasis\source\repos\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\subhasis\source\repos\Repository\obj\Debug\Repository.dll
+C:\Users\subhasis\source\repos\Repository\obj\Debug\Repository.pdb
